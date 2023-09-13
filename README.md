@@ -22,4 +22,4 @@ React Router and Reusable Component Structure
 </div>
 
 ## Npm
-### To install packages `npm install` after that to run `npm start`.
+* To install packages `npm install` after that to run `npm start`.
