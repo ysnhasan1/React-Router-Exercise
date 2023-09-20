@@ -18,7 +18,11 @@ React Router and Reusable Component Structure
 3
 <img src="https://github.com/ysnhasan1/React-Router-Exercise/assets/102024926/7a14577a-96f4-4bf6-8efd-3dd63fdbac22"><br /><br />
 4
-<img src="https://github.com/ysnhasan1/React-Router-Exercise/assets/102024926/42b6b3a0-3724-4306-b5c5-6fcdf841c366"><br />
+<img src="https://github.com/ysnhasan1/React-Router-Exercise/assets/102024926/42b6b3a0-3724-4306-b5c5-6fcdf841c366"><br /><br />
+5
+<img src="https://github.com/ysnhasan1/React-Router-Exercise/assets/102024926/85ea3cae-9ecf-4e15-9bf4-8f9f7b3d2290"><br /><br />
+6
+<img src="https://github.com/ysnhasan1/React-Router-Exercise/assets/102024926/a980f158-dd3e-4613-9f1d-46064688a0c5"><br />
 </div>
 
 ## Npm
