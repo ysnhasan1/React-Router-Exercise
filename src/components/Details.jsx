@@ -27,7 +27,7 @@ function Details() {
     <div>
       <h1 style={{ textAlign: "center", fontFamily: "'Black Ops One', cursive", fontSize: "40px" }}>DETAILS</h1>
 
-      <Car id={getCar?.id} name={getCar?.name} year={getCar?.year} image={getCar?.image} />
+      <Car name={getCar?.name} year={getCar?.year} image={getCar?.image} />
 
       {/* Her bir özellik önce ? ile kontrol edilir. 
           Eğer getCar mevcut değilse veya herhangi bir özelliği mevcut değilse, 
